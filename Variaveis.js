@@ -1,6 +1,6 @@
 var nome = "João";
-let nome1 = "Maria"
-const nome2 = "Karla"
+let nome1 = "Maria";
+const nome2 = "Karla";
 
 
 function func1(){
