@@ -10,7 +10,7 @@ function func1(){
 }
 
 function func2(){
-    console.log("Oi "+ nome +" ");]
+    console.log("Oi "+ nome +" ");
 
 }
 
